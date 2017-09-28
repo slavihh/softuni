@@ -13,7 +13,7 @@ namespace ConsoleApplication1
             int max = int.Parse(Console.ReadLine());
             while (max != 0)
             {
-                Console.WriteLine("Heyy mamam");
+                Console.WriteLine("Heyy mamam whats going");
             }
         }
     }
